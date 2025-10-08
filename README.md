@@ -1,2 +1,2 @@
 # project-1
-Courseras first essay
+Courseras first essay.
